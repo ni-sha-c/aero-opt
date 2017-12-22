@@ -1,7 +1,7 @@
-# The Markov-chain Monte Carlo Interactive Gallery
+# Airfoil spanload optimization
 
-A collection of javascript implementations of interesting MCMC algorithms
+Refer to section 5.10 of Prof. Mark Drela's book
+"Flight Vehicle Aerodynamics" for the load distribution
+optimization method used here.
 
-[Try it out!](http://chi-feng.github.io/mcmc-demo/)
 
-![Hamiltonian Monte Carlo in action](https://raw.githubusercontent.com/chi-feng/mcmc-demo/master/docs/hmc.gif)
